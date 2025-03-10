@@ -60,7 +60,7 @@ const issam = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=issam-abadllah&theme=tokyonight" alt="GitHub streak stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=issam-abadllah&layout=compact&theme=tokyonight" alt="Top Languages" />
+  
 </div>
 
 ---
